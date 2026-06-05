@@ -168,7 +168,7 @@ function Foundation() {
             <span className="chip"><SIcon name="Pickaxe" size={14} /> Nonce search = proof of work</span>
           </SReveal>
           <SReveal delay={0.2} style={{ marginTop: "1.6rem" }}>
-            <a className="btn btn-ghost" href="Blockchain Playground.html"><SIcon name="FlaskConical" size={16} /> Mine real blocks in the full playground →</a>
+            <a className="btn btn-ghost" href="https://lab.interchained.org"><SIcon name="FlaskConical" size={16} /> Mine real blocks in the full playground →</a>
           </SReveal>
         </div>
         <SReveal delay={0.12}><LiveHash /></SReveal>
@@ -321,8 +321,8 @@ function WhyITC() {
       <div className="sc-cta-band">
         <SReveal as="h2">Bitcoin walked. <span className="itc">Now go run.</span></SReveal>
         <SReveal className="ctas" delay={0.08}>
-          <a className="btn btn-itc" style={{ padding: "0.9rem 1.6rem" }} href="Blockchain Playground.html"><SIcon name="Pickaxe" size={17} /> Mine your own chain</a>
-          <a className="btn btn-ghost" href="Interchained Explainer.html"><SIcon name="BookOpen" size={17} /> Read the full explainer</a>
+          <a className="btn btn-itc" style={{ padding: "0.9rem 1.6rem" }} href="https://lab.interchained.org"><SIcon name="Pickaxe" size={17} /> Mine your own chain</a>
+          <a className="btn btn-ghost" href="https://deck.interchained.org"><SIcon name="BookOpen" size={17} /> Read the full explainer</a>
         </SReveal>
       </div>
     </section>
