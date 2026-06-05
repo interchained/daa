@@ -346,8 +346,8 @@ function SCFooter() {
         <div className="links">
           <a href="https://interchained.org" target="_blank" rel="noreferrer">Interchained ↗</a>
           <a href="https://aiassist.net" target="_blank" rel="noreferrer">AiAssist Secure ↗</a>
-          <a href="Blockchain Playground.html">Playground →</a>
-          <a href="Interchained Explainer.html">Explainer →</a>
+          <a href="https://lab.interchained.org/">Labs →</a>
+          <a href="https://deck.interchained.org/">Deck →</a>
         </div>
       </div>
     </footer>
